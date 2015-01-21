@@ -1,3 +1,3 @@
 third
 come on ,it's very easy
-Crecting a new branch is quick & simple
+creating to new banch is quick and simple
